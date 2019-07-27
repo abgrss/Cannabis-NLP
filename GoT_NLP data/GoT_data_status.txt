@@ -2,5 +2,15 @@ SCRAPING NOTES
 
 Acquired from: https://genius.com/albums/Game-of-thrones/Season-1-scripts
 
-S1: E1 OK. Check others
-S2: ALL OK
+S1E1: OK.
+S1E2: 
+S1E3:
+S1E4:
+S1E5:
+S1E6:
+S1E7:
+S1E8:
+S1E9:
+S1E10:
+
+S2-8: ALL OK
